@@ -3,7 +3,7 @@ from pathlib import Path
 import streamlit as st
 
 # Configure GenAI API key
-genai.configure(api_key="AIzaSyCy4ZTxt1DiSBeySNHw-pYJey70Nc_uQ3I")
+genai.configure(api_key="YOUR-API-KEY-HERE-PLEASE")
 
 # Function to initialize the model
 def initialize_model():
