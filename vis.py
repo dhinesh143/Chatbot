@@ -7,7 +7,7 @@ import io
 import base64
 
 # Configure GenAI API key
-genai.configure(api_key="AIzaSyCy4ZTxt1DiSBeySNHw-pYJey70Nc_uQ3I")
+genai.configure(api_key="Your-api-key-here")
 
 # Function to initialize the model
 def initialize_model():
